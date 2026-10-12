@@ -1,0 +1,13 @@
+{
+  "name": "debug-simulation-shop",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "setup": "npm install --prefix frontend",
+    "dev": "node scripts/dev.mjs",
+    "dev:api": "dotnet run --project backend/Shop.Api/Shop.Api.csproj --no-launch-profile",
+    "dev:web": "npm run dev --prefix frontend",
+    "build:api": "dotnet build backend/Shop.Api/Shop.Api.csproj",
+    "build:web": "npm run build --prefix frontend"
+  }
+}

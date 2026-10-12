@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "Arc Desk Lamp",
+    "category": "Home",
+    "description": "A sculptural little light for late-night ideas and slow mornings.",
+    "price": 89,
+    "stock": 18,
+    "emoji": "💡",
+    "accent": "#d6e2de",
+    "badge": "BEST SELLER"
+  },
+  {
+    "id": 2,
+    "name": "Studio Headphones",
+    "category": "Tech",
+    "description": "Comfort-first over-ear sound, made for your daily soundtrack.",
+    "price": 179,
+    "stock": 12,
+    "emoji": "🎧",
+    "accent": "#e4ddf1",
+    "badge": "POPULAR"
+  },
+  {
+    "id": 3,
+    "name": "Everyday Canvas Tote",
+    "category": "Accessories",
+    "description": "Your carry-everywhere essential in a sturdy, timeless weave.",
+    "price": 32,
+    "stock": 32,
+    "emoji": "👜",
+    "accent": "#ecdec7",
+    "badge": null
+  },
+  {
+    "id": 4,
+    "name": "Pour-Over Coffee Set",
+    "category": "Home",
+    "description": "Brew something worth getting out of bed for.",
+    "price": 68,
+    "stock": 20,
+    "emoji": "☕",
+    "accent": "#e8cfbb",
+    "badge": "NEW"
+  },
+  {
+    "id": 5,
+    "name": "Analog Field Watch",
+    "category": "Accessories",
+    "description": "A dependable everyday classic with an uncluttered dial.",
+    "price": 145,
+    "stock": 9,
+    "emoji": "⌚",
+    "accent": "#d4dfdb",
+    "badge": null
+  },
+  {
+    "id": 6,
+    "name": "Wireless Desk Charger",
+    "category": "Tech",
+    "description": "Minimal wireless charging for a less cluttered workspace.",
+    "price": 49,
+    "stock": 25,
+    "emoji": "🔋",
+    "accent": "#d6dfed",
+    "badge": "NEW"
+  },
+  {
+    "id": 7,
+    "name": "Softcover Notebook Set",
+    "category": "Stationery",
+    "description": "Three beautifully simple places for your next big ideas.",
+    "price": 24,
+    "stock": 44,
+    "emoji": "📓",
+    "accent": "#edddd9",
+    "badge": null
+  },
+  {
+    "id": 8,
+    "name": "Ceramic Espresso Cups",
+    "category": "Home",
+    "description": "Two hand-feel favorites for your best small coffee ritual.",
+    "price": 38,
+    "stock": 16,
+    "emoji": "🍵",
+    "accent": "#d8dfcf",
+    "badge": null
+  },
+  {
+    "id": 9,
+    "name": "Portable Bluetooth Speaker",
+    "category": "Tech",
+    "description": "A compact speaker with surprisingly room-filling sound.",
+    "price": 95,
+    "stock": 14,
+    "emoji": "🔊",
+    "accent": "#e6d9dc",
+    "badge": "POPULAR"
+  },
+  {
+    "id": 10,
+    "name": "Weekend Duffel",
+    "category": "Accessories",
+    "description": "Pack light, go far. The bag made for your next escape.",
+    "price": 119,
+    "stock": 11,
+    "emoji": "🎒",
+    "accent": "#d9dfc8",
+    "badge": null
+  },
+  {
+    "id": 11,
+    "name": "Precision Pen Duo",
+    "category": "Stationery",
+    "description": "Two satisfying everyday pens, made for putting ideas down.",
+    "price": 29,
+    "stock": 39,
+    "emoji": "🖊️",
+    "accent": "#d9dee9",
+    "badge": null
+  },
+  {
+    "id": 12,
+    "name": "Everyday Water Bottle",
+    "category": "Accessories",
+    "description": "A double-wall bottle that keeps your drink just right.",
+    "price": 39,
+    "stock": 28,
+    "emoji": "🧊",
+    "accent": "#d4e2e4",
+    "badge": null
+  }
+]
